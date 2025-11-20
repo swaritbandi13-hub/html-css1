@@ -1,0 +1,31 @@
+h1 {
+    width: 600px;
+    font-size: 86px;
+    line-height: 1.3;
+    background-color: rgb(166,0,93);
+    color: rgb(254,145,93);
+    text-align: center
+}
+
+h2 {
+    width: 600px;
+    background-color: rgb(216,35,27);
+    color: rgb(254,145,93);
+    text-align: center
+}
+
+h3 {
+    color: rgb(216, 35, 27)
+}
+
+strong {
+    color: rgb(166, 0, 93)
+}
+
+p {
+    width: 600px
+}
+
+span {
+    font-size: 48px
+}

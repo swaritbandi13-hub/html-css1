@@ -1,0 +1,20 @@
+body {
+  width: 820px;
+  background-color: floralwhite;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+p {
+  line-height: 1.9;
+}
+
+em {
+  color: royalblue;
+}
